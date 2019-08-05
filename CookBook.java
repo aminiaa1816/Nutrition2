@@ -144,7 +144,7 @@ public class CookBook {
 						gorceryList.printGroceryList();
 												break;
 					case 7:
-						System.out.println("\n\n\n\t\t\tThank you!!!");
+						System.out.println("\n\n\n\t\t\tBon Appetit!!!");
 						break;
 					default:
 						System.out.println("\nInvalid Choice!!!");
